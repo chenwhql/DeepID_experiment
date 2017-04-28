@@ -1,0 +1,19 @@
+
+[chenweihang@localhost 4.LFW-deepfunneled]$ ./preproc.sh
+1. images crop
+sub_folder: 5749, imgs 13233
+2. images split
+lenth=2:['10', '300']
+Read paris.txt DONE!
+done: 6000
+left set num: 6000
+right set num: 6000
+3. images vectorize
+test  img num: 6000
+train img num: 6000
+done: 6000
+done: 6000
+
+
+
+

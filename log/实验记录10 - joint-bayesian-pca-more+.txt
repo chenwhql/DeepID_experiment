@@ -1,0 +1,3229 @@
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\5.Verify>python ../src/joint_bayesian/verify_lfw_pca.py
+[[   55    58]
+ [  153   155]
+ [  154   155]
+ ...,
+ [13182 13183]
+ [13204 13206]
+ [13205 13211]] (3000L, 2L)
+[[   14  2795]
+ [   14  4624]
+ [   14  9182]
+ ...,
+ [11492 12688]
+ [11528 11568]
+ [11638 11645]] (3000L, 2L)
+Saving data to file(./result/pca_lfw_pca.pkl).
+(13233L, 160L)
+Saving data to file(./result/result_pca.pkl).
+[1 1 1 ..., 0 0 0]
+test size:  (6000L,)
+negative size:  (3000L,)
+postive size:  (3000L,)
+threshold:  -5
+             precision    recall  f1-score   support
+
+      False       0.87      0.82      0.85      3000
+       True       0.83      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.99
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.83      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.98
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.97
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.96
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.95
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.94
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.93
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.92
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.91
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.9
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.89
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.88
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.87
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.86
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.85
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.84
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.83
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.82
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.81
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.8
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.88      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.79
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -4.78
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.77
+             precision    recall  f1-score   support
+
+      False       0.87      0.83      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.76
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.75
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.74
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.73
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.72
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.71
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.7
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -4.69
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.68
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.67
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.66
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.84      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.65
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.64
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.63
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.62
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.61
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.6
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.59
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.58
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.57
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.56
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.85      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.55
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.54
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.53
+             precision    recall  f1-score   support
+
+      False       0.87      0.84      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.52
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.51
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.5
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.49
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.48
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.47
+             precision    recall  f1-score   support
+
+      False       0.87      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.46
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.45
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.44
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.43
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.42
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.41
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.4
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.39
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.38
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.37
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.87      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.36
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.35
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.34
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.33
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.85      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.32
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.31
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.3
+             precision    recall  f1-score   support
+
+      False       0.86      0.85      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.29
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.28
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.27
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.26
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.25
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.24
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.23
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.22
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.21
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.2
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.19
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.18
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.17
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.16
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.15
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.14
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.13
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.12
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.11
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.1
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.09
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.08
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.86      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.07
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.06
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.05
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.04
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.03
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.02
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.01
+             precision    recall  f1-score   support
+
+      False       0.86      0.86      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -4.0
+             precision    recall  f1-score   support
+
+      False       0.86      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.99
+             precision    recall  f1-score   support
+
+      False       0.86      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.98
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.97
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.96
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.95
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.94
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.93
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.92
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.86      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.91
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.9
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.89
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.88
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.87
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.86
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.85
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.84
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.83
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.82
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.85      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.81
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.8
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.79
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.78
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.77
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.76
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.75
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.74
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.86      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.73
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.72
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.71
+             precision    recall  f1-score   support
+
+      False       0.85      0.87      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.7
+             precision    recall  f1-score   support
+
+      False       0.84      0.87      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.69
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.68
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.67
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.66
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.65
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.64
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.63
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.62
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.61
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.6
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.59
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.84      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.58
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.57
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.56
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.55
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.54
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.53
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.52
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.51
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.5
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.49
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.48
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.47
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.46
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.87      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.45
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.44
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.43
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.42
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.41
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.4
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.39
+             precision    recall  f1-score   support
+
+      False       0.84      0.88      0.86      3000
+       True       0.88      0.83      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.38
+             precision    recall  f1-score   support
+
+      False       0.83      0.88      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.37
+             precision    recall  f1-score   support
+
+      False       0.83      0.88      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.36
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.35
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.34
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.33
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.32
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.31
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.86      0.86      6000
+
+threshold:  -3.3
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.29
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.28
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.27
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.26
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.25
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.24
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.23
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.22
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.21
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.2
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.19
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.18
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.17
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.16
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.82      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.15
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.14
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.13
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.12
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.11
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.88      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.1
+             precision    recall  f1-score   support
+
+      False       0.83      0.89      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.09
+             precision    recall  f1-score   support
+
+      False       0.83      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.08
+             precision    recall  f1-score   support
+
+      False       0.83      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.07
+             precision    recall  f1-score   support
+
+      False       0.83      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.06
+             precision    recall  f1-score   support
+
+      False       0.83      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.05
+             precision    recall  f1-score   support
+
+      False       0.83      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.04
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.03
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.02
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.01
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -3.0
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.99
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.98
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.97
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.96
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.95
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.85      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.94
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.81      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.93
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.92
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.91
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.9
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.89
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.88
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.87
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.86
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.85
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.84
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.83
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.82
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.81
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.8
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.79
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.78
+             precision    recall  f1-score   support
+
+      False       0.82      0.90      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.77
+             precision    recall  f1-score   support
+
+      False       0.82      0.91      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.76
+             precision    recall  f1-score   support
+
+      False       0.82      0.91      0.86      3000
+       True       0.89      0.80      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.75
+             precision    recall  f1-score   support
+
+      False       0.82      0.91      0.86      3000
+       True       0.89      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.74
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.89      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.73
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.89      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.72
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.71
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.7
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.69
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.68
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.67
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.66
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.65
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.64
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.63
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.62
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.61
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.6
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.59
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.58
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.57
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.56
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.55
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.54
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.53
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.79      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.52
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.51
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.5
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.49
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.48
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.47
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.46
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.45
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.44
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.43
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.42
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.41
+             precision    recall  f1-score   support
+
+      False       0.81      0.91      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.4
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.39
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.38
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.37
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.36
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.35
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.34
+             precision    recall  f1-score   support
+
+      False       0.81      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.33
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.32
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.90      0.78      0.84      3000
+
+avg / total       0.85      0.85      0.85      6000
+
+threshold:  -2.31
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.78      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.3
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.78      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.29
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.78      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.28
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.78      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.27
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.78      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.26
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.25
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.24
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.23
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.22
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.21
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.2
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.19
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.18
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.17
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.16
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.15
+             precision    recall  f1-score   support
+
+      False       0.80      0.92      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.14
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.84      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.13
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.12
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.11
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.1
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.09
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.08
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.07
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.06
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.05
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.04
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.03
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.02
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.01
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.77      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -2.0
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -1.99
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -1.98
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.85      6000
+
+threshold:  -1.97
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.84      6000
+
+threshold:  -1.96
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.84      6000
+
+threshold:  -1.95
+             precision    recall  f1-score   support
+
+      False       0.80      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.86      0.85      0.84      6000
+
+threshold:  -1.94
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.93
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.91      0.76      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.92
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.76      0.83      3000
+
+avg / total       0.86      0.84      0.84      6000
+
+threshold:  -1.91
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.76      0.83      3000
+
+avg / total       0.86      0.84      0.84      6000
+
+threshold:  -1.9
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.76      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.89
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.76      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.88
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.76      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.87
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.86
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.85
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.84
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.83
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.82
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.81
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.8
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.79
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.78
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.77
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.76
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.85      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.75
+             precision    recall  f1-score   support
+
+      False       0.79      0.93      0.85      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.74
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.73
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.72
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.86      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.71
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.86      3000
+       True       0.92      0.75      0.83      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.7
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.86      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.69
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.86      3000
+       True       0.92      0.75      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.68
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.67
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.66
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.65
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.64
+             precision    recall  f1-score   support
+
+      False       0.79      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.63
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.62
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.61
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.6
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.59
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.58
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.57
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.56
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.55
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.54
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.53
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.74      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.52
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.51
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.5
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.49
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.92      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.48
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.84      6000
+
+threshold:  -1.47
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.46
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.45
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.44
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.43
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.42
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.41
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.4
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.39
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.38
+             precision    recall  f1-score   support
+
+      False       0.78      0.94      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.37
+             precision    recall  f1-score   support
+
+      False       0.78      0.95      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.36
+             precision    recall  f1-score   support
+
+      False       0.78      0.95      0.85      3000
+       True       0.93      0.73      0.82      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.35
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.34
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.33
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.84      0.83      6000
+
+threshold:  -1.32
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.31
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.3
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.29
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.28
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.27
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.26
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.25
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.24
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.23
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.22
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.21
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.2
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.19
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.18
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.72      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.17
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.16
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.15
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.14
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.13
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.12
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.11
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.1
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.09
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.08
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.07
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.06
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.93      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.05
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.04
+             precision    recall  f1-score   support
+
+      False       0.77      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.03
+             precision    recall  f1-score   support
+
+      False       0.76      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.02
+             precision    recall  f1-score   support
+
+      False       0.76      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.01
+             precision    recall  f1-score   support
+
+      False       0.76      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000
+
+threshold:  -1.0
+             precision    recall  f1-score   support
+
+      False       0.76      0.95      0.85      3000
+       True       0.94      0.71      0.81      3000
+
+avg / total       0.85      0.83      0.83      6000

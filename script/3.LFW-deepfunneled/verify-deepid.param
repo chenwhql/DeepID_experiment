@@ -1,0 +1,17 @@
+test_data_folder: left_vec_deepid
+train_data_folder: right_vec_deepid
+# this should be in the same folder with left_vec and right_vec
+# and the program should be executed in the same folder with this file
+
+
+[exp_1]
+description: direct verify based on pixels with Euclidean
+pre_process_method: None
+sim_metric_method: euc
+
+[exp_2]
+description: direct verify based on pixels with cosine
+pre_process_method: None
+sim_metric_method: cos
+
+

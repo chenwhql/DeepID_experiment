@@ -1,0 +1,328 @@
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\4.LFW-deepfunneled>python ../src/verify/verify.py verify-deepid.param deepid_verify_result
+right_x:   (6000L, 160L)
+right_y:   (6000L,)
+left_x:  (6000L, 160L)
+left_y:  (6000L,)
+
+2 experiments
+
+*************************************************
+exp_1 -- direct verify based on pixels with Euclidean
+threshold: 0.1
+done: 6000
+precision: 0.500333 = 3002 / 6000
+threshold: 0.12
+done: 6000
+precision: 0.500167 = 3001 / 6000
+threshold: 0.14
+done: 6000
+precision: 0.499667 = 2998 / 6000
+threshold: 0.16
+done: 6000
+precision: 0.497167 = 2983 / 6000
+threshold: 0.18
+done: 6000
+precision: 0.493667 = 2962 / 6000
+threshold: 0.2
+done: 6000
+precision: 0.492667 = 2956 / 6000
+threshold: 0.22
+done: 6000
+precision: 0.490000 = 2940 / 6000
+threshold: 0.24
+done: 6000
+precision: 0.493667 = 2962 / 6000
+threshold: 0.26
+done: 6000
+precision: 0.496167 = 2977 / 6000
+threshold: 0.28
+done: 6000
+precision: 0.500333 = 3002 / 6000
+threshold: 0.3
+done: 6000
+precision: 0.506667 = 3040 / 6000
+threshold: 0.32
+done: 6000
+precision: 0.508167 = 3049 / 6000
+threshold: 0.34
+done: 6000
+precision: 0.505167 = 3031 / 6000
+threshold: 0.36
+done: 6000
+precision: 0.506500 = 3039 / 6000
+threshold: 0.38
+done: 6000
+precision: 0.506167 = 3037 / 6000
+threshold: 0.4
+done: 6000
+precision: 0.506500 = 3039 / 6000
+threshold: 0.42
+done: 6000
+precision: 0.504833 = 3029 / 6000
+threshold: 0.44
+done: 6000
+precision: 0.505000 = 3030 / 6000
+threshold: 0.46
+done: 6000
+precision: 0.503333 = 3020 / 6000
+threshold: 0.48
+done: 6000
+precision: 0.502833 = 3017 / 6000
+threshold: 0.5
+done: 6000
+precision: 0.502667 = 3016 / 6000
+threshold: 0.52
+done: 6000
+precision: 0.500667 = 3004 / 6000
+threshold: 0.54
+done: 6000
+precision: 0.500333 = 3002 / 6000
+threshold: 0.56
+done: 6000
+precision: 0.500167 = 3001 / 6000
+threshold: 0.58
+done: 6000
+precision: 0.499667 = 2998 / 6000
+threshold: 0.6
+done: 6000
+precision: 0.499833 = 2999 / 6000
+threshold: 0.62
+done: 6000
+precision: 0.499667 = 2998 / 6000
+threshold: 0.64
+done: 6000
+precision: 0.499500 = 2997 / 6000
+threshold: 0.66
+done: 6000
+precision: 0.499000 = 2994 / 6000
+threshold: 0.68
+done: 6000
+precision: 0.500167 = 3001 / 6000
+threshold: 0.7
+done: 6000
+precision: 0.500167 = 3001 / 6000
+threshold: 0.72
+done: 6000
+precision: 0.500333 = 3002 / 6000
+threshold: 0.74
+done: 6000
+precision: 0.500667 = 3004 / 6000
+threshold: 0.76
+done: 6000
+precision: 0.500833 = 3005 / 6000
+threshold: 0.78
+done: 6000
+precision: 0.501167 = 3007 / 6000
+threshold: 0.8
+done: 6000
+precision: 0.501000 = 3006 / 6000
+threshold: 0.82
+done: 6000
+precision: 0.501500 = 3009 / 6000
+threshold: 0.84
+done: 6000
+precision: 0.501833 = 3011 / 6000
+threshold: 0.86
+done: 6000
+precision: 0.501667 = 3010 / 6000
+threshold: 0.88
+done: 6000
+precision: 0.501167 = 3007 / 6000
+threshold: 0.9
+done: 6000
+precision: 0.501167 = 3007 / 6000
+threshold: 0.92
+done: 6000
+precision: 0.501000 = 3006 / 6000
+threshold: 0.94
+done: 6000
+precision: 0.500667 = 3004 / 6000
+threshold: 0.96
+done: 6000
+precision: 0.500667 = 3004 / 6000
+threshold: 0.98
+done: 6000
+precision: 0.500667 = 3004 / 6000
+
+*************************************************
+exp_2 -- direct verify based on pixels with cosine
+sqrt normalizing data ...
+threshold: 0.1
+done: 6000
+precision: 0.499833 = 2999 / 6000
+sqrt normalizing data ...
+threshold: 0.12
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.14
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.16
+done: 6000
+precision: 0.498833 = 2993 / 6000
+sqrt normalizing data ...
+threshold: 0.18
+done: 6000
+precision: 0.498833 = 2993 / 6000
+sqrt normalizing data ...
+threshold: 0.2
+done: 6000
+precision: 0.498167 = 2989 / 6000
+sqrt normalizing data ...
+threshold: 0.22
+done: 6000
+precision: 0.497667 = 2986 / 6000
+sqrt normalizing data ...
+threshold: 0.24
+done: 6000
+precision: 0.496167 = 2977 / 6000
+sqrt normalizing data ...
+threshold: 0.26
+done: 6000
+precision: 0.491167 = 2947 / 6000
+sqrt normalizing data ...
+threshold: 0.28
+done: 6000
+precision: 0.490833 = 2945 / 6000
+sqrt normalizing data ...
+threshold: 0.3
+done: 6000
+precision: 0.494833 = 2969 / 6000
+sqrt normalizing data ...
+threshold: 0.32
+done: 6000
+precision: 0.492167 = 2953 / 6000
+sqrt normalizing data ...
+threshold: 0.34
+done: 6000
+precision: 0.491167 = 2947 / 6000
+sqrt normalizing data ...
+threshold: 0.36
+done: 6000
+precision: 0.488000 = 2928 / 6000
+sqrt normalizing data ...
+threshold: 0.38
+done: 6000
+precision: 0.487000 = 2922 / 6000
+sqrt normalizing data ...
+threshold: 0.4
+done: 6000
+precision: 0.483500 = 2901 / 6000
+sqrt normalizing data ...
+threshold: 0.42
+done: 6000
+precision: 0.486500 = 2919 / 6000
+sqrt normalizing data ...
+threshold: 0.44
+done: 6000
+precision: 0.485000 = 2910 / 6000
+sqrt normalizing data ...
+threshold: 0.46
+done: 6000
+precision: 0.482667 = 2896 / 6000
+sqrt normalizing data ...
+threshold: 0.48
+done: 6000
+precision: 0.485500 = 2913 / 6000
+sqrt normalizing data ...
+threshold: 0.5
+done: 6000
+precision: 0.488167 = 2929 / 6000
+sqrt normalizing data ...
+threshold: 0.52
+done: 6000
+precision: 0.488667 = 2932 / 6000
+sqrt normalizing data ...
+threshold: 0.54
+done: 6000
+precision: 0.489333 = 2936 / 6000
+sqrt normalizing data ...
+threshold: 0.56
+done: 6000
+precision: 0.487500 = 2925 / 6000
+sqrt normalizing data ...
+threshold: 0.58
+done: 6000
+precision: 0.489500 = 2937 / 6000
+sqrt normalizing data ...
+threshold: 0.6
+done: 6000
+precision: 0.487333 = 2924 / 6000
+sqrt normalizing data ...
+threshold: 0.62
+done: 6000
+precision: 0.489500 = 2937 / 6000
+sqrt normalizing data ...
+threshold: 0.64
+done: 6000
+precision: 0.492167 = 2953 / 6000
+sqrt normalizing data ...
+threshold: 0.66
+done: 6000
+precision: 0.492500 = 2955 / 6000
+sqrt normalizing data ...
+threshold: 0.68
+done: 6000
+precision: 0.495000 = 2970 / 6000
+sqrt normalizing data ...
+threshold: 0.7
+done: 6000
+precision: 0.498333 = 2990 / 6000
+sqrt normalizing data ...
+threshold: 0.72
+done: 6000
+precision: 0.499000 = 2994 / 6000
+sqrt normalizing data ...
+threshold: 0.74
+done: 6000
+precision: 0.499167 = 2995 / 6000
+sqrt normalizing data ...
+threshold: 0.76
+done: 6000
+precision: 0.499667 = 2998 / 6000
+sqrt normalizing data ...
+threshold: 0.78
+done: 6000
+precision: 0.499667 = 2998 / 6000
+sqrt normalizing data ...
+threshold: 0.8
+done: 6000
+precision: 0.499833 = 2999 / 6000
+sqrt normalizing data ...
+threshold: 0.82
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.84
+done: 6000
+precision: 0.500167 = 3001 / 6000
+sqrt normalizing data ...
+threshold: 0.86
+done: 6000
+precision: 0.500500 = 3003 / 6000
+sqrt normalizing data ...
+threshold: 0.88
+done: 6000
+precision: 0.500500 = 3003 / 6000
+sqrt normalizing data ...
+threshold: 0.9
+done: 6000
+precision: 0.500167 = 3001 / 6000
+sqrt normalizing data ...
+threshold: 0.92
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.94
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.96
+done: 6000
+precision: 0.500000 = 3000 / 6000
+sqrt normalizing data ...
+threshold: 0.98
+done: 6000
+precision: 0.500000 = 3000 / 6000

@@ -1,0 +1,452 @@
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\5.Verify>python ../src/joint_bayesian/verify_lfw_pca.py
+(71846L, 5900L) (71846L, 1L)
+2017-04-27, 16:01:39  PCA training (n_components=160)...
+2017-04-27, 16:02:12  PCA done.
+Saving data to file(./result/pca_wdref.pkl).
+(71846L, 160L)
+prepare done, maxNumberInOneClass= 40
+2017-04-27, 16:02:27  Iterations-0: 0.00759605165352
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:30  Iterations-1: 0.0114154667104
+2017-04-27, 16:02:30  Iterations-2: 0.0121665250413
+2017-04-27, 16:02:31  Iterations-3: 0.0113882565956
+2017-04-27, 16:02:32  Iterations-4: 0.0097461148424
+2017-04-27, 16:02:32  Iterations-5: 0.0078373904638
+2017-04-27, 16:02:33  Iterations-6: 0.0054987577252
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:34  Iterations-7: 0.00365665878611
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:34  Iterations-8: 0.00258889567295
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:35  Iterations-9: 0.00217662139623
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:36  Iterations-10: 0.00202152359545
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:36  Iterations-11: 0.0018136175689
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:37  Iterations-12: 0.00175474043294
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:38  Iterations-13: 0.00171665495663
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:38  Iterations-14: 0.00154010485106
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:39  Iterations-15: 0.00144749897399
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:40  Iterations-16: 0.00144865019535
+2017-04-27, 16:02:40  Iterations-17: 0.00155905647535
+2017-04-27, 16:02:41  Iterations-18: 0.00142726366199
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:42  Iterations-19: 0.00129754005474
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:42  Iterations-20: 0.00138583928588
+2017-04-27, 16:02:43  Iterations-21: 0.0014419215158
+2017-04-27, 16:02:44  Iterations-22: 0.0011600110863
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:44  Iterations-23: 0.000913198737424
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:45  Iterations-24: 0.000782403534843
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:46  Iterations-25: 0.00055971896254
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:46  Iterations-26: 0.000485552294235
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:47  Iterations-27: 0.000649278460541
+2017-04-27, 16:02:48  Iterations-28: 0.000862221761693
+2017-04-27, 16:02:48  Iterations-29: 0.000998697769182
+2017-04-27, 16:02:49  Iterations-30: 0.000776558245389
+2017-04-27, 16:02:49  Iterations-31: 0.000255731326014
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:50  Iterations-32: 3.97527136184e-05
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:51  Iterations-33: 3.74911129232e-05
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:02:51  Iterations-34: 4.01499395331e-05
+2017-04-27, 16:02:52  Iterations-35: 4.3432466837e-05
+2017-04-27, 16:02:53  Iterations-36: 4.74783957125e-05
+2017-04-27, 16:02:53  Iterations-37: 5.24816213373e-05
+2017-04-27, 16:02:54  Iterations-38: 5.87073504004e-05
+2017-04-27, 16:02:54  Iterations-39: 6.65232419428e-05
+2017-04-27, 16:02:55  Iterations-40: 7.64475756844e-05
+2017-04-27, 16:02:56  Iterations-41: 8.92249200525e-05
+2017-04-27, 16:02:56  Iterations-42: 0.000105947322024
+2017-04-27, 16:02:57  Iterations-43: 0.000128251824611
+2017-04-27, 16:02:58  Iterations-44: 0.000158645839359
+2017-04-27, 16:02:58  Iterations-45: 0.000201039393266
+2017-04-27, 16:02:59  Iterations-46: 0.000261569015773
+2017-04-27, 16:03:00  Iterations-47: 0.000349614716066
+2017-04-27, 16:03:00  Iterations-48: 0.000477749770896
+2017-04-27, 16:03:01  Iterations-49: 0.000654080435162
+2017-04-27, 16:03:02  Iterations-50: 0.000843581226098
+2017-04-27, 16:03:02  Iterations-51: 0.000873231612238
+2017-04-27, 16:03:03  Iterations-52: 0.000517520507826
+2017-04-27, 16:03:04  Iterations-53: 0.000101670996074
+2017-04-27, 16:03:04  Iterations-54: 6.31136521526e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:05  Iterations-55: 5.43529857828e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:06  Iterations-56: 5.39618109944e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:06  Iterations-57: 5.37019186665e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:07  Iterations-58: 5.35365795725e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:08  Iterations-59: 5.34576984213e-06
+Saving data to file(./result/G.pkl).
+Saving data to file(./result/A.pkl).
+2017-04-27, 16:03:08  Iterations-60: 5.34613371405e-06
+2017-04-27, 16:03:09  Iterations-61: 5.35451611934e-06
+2017-04-27, 16:03:09  Iterations-62: 5.37078781745e-06
+2017-04-27, 16:03:10  Iterations-63: 5.39490037083e-06
+2017-04-27, 16:03:11  Iterations-64: 5.42687381022e-06
+2017-04-27, 16:03:11  Iterations-65: 5.466789839e-06
+2017-04-27, 16:03:12  Iterations-66: 5.51478829776e-06
+2017-04-27, 16:03:13  Iterations-67: 5.57106577364e-06
+2017-04-27, 16:03:13  Iterations-68: 5.63587579149e-06
+2017-04-27, 16:03:14  Iterations-69: 5.70953028031e-06
+2017-04-27, 16:03:14  Iterations-70: 5.7924021743e-06
+2017-04-27, 16:03:15  Iterations-71: 5.88492909927e-06
+2017-04-27, 16:03:16  Iterations-72: 5.98761815179e-06
+2017-04-27, 16:03:16  Iterations-73: 6.10105184103e-06
+2017-04-27, 16:03:17  Iterations-74: 6.22589529149e-06
+2017-04-27, 16:03:18  Iterations-75: 6.3629048631e-06
+2017-04-27, 16:03:18  Iterations-76: 6.51293837343e-06
+2017-04-27, 16:03:19  Iterations-77: 6.67696717528e-06
+2017-04-27, 16:03:19  Iterations-78: 6.85609038404e-06
+2017-04-27, 16:03:20  Iterations-79: 7.05155163615e-06
+2017-04-27, 16:03:21  Iterations-80: 7.26475883571e-06
+2017-04-27, 16:03:21  Iterations-81: 7.49730745634e-06
+2017-04-27, 16:03:22  Iterations-82: 7.75100809842e-06
+2017-04-27, 16:03:23  Iterations-83: 8.0279191622e-06
+2017-04-27, 16:03:23  Iterations-84: 8.33038571358e-06
+2017-04-27, 16:03:24  Iterations-85: 8.66108587271e-06
+2017-04-27, 16:03:24  Iterations-86: 9.02308640191e-06
+2017-04-27, 16:03:25  Iterations-87: 9.41990959346e-06
+2017-04-27, 16:03:26  Iterations-88: 9.85561412286e-06
+2017-04-27, 16:03:26  Iterations-89: 1.03348932566e-05
+2017-04-27, 16:03:27  Iterations-90: 1.08631947547e-05
+2017-04-27, 16:03:27  Iterations-91: 1.14468680699e-05
+2017-04-27, 16:03:28  Iterations-92: 1.20933461103e-05
+2017-04-27, 16:03:29  Iterations-93: 1.28113710784e-05
+2017-04-27, 16:03:29  Iterations-94: 1.36112769235e-05
+2017-04-27, 16:03:30  Iterations-95: 1.45053450828e-05
+2017-04-27, 16:03:31  Iterations-96: 1.55082558578e-05
+2017-04-27, 16:03:31  Iterations-97: 1.66376657072e-05
+2017-04-27, 16:03:32  Iterations-98: 1.79149518187e-05
+2017-04-27, 16:03:32  Iterations-99: 1.93661811367e-05
+2017-04-27, 16:03:33  Iterations-100: 2.10233837099e-05
+2017-04-27, 16:03:34  Iterations-101: 2.29262432697e-05
+2017-04-27, 16:03:34  Iterations-102: 2.51243667143e-05
+2017-04-27, 16:03:35  Iterations-103: 2.76803671086e-05
+2017-04-27, 16:03:36  Iterations-104: 3.06741055998e-05
+2017-04-27, 16:03:36  Iterations-105: 3.42086085688e-05
+2017-04-27, 16:03:37  Iterations-106: 3.84184444583e-05
+2017-04-27, 16:03:37  Iterations-107: 4.34817726886e-05
+2017-04-27, 16:03:38  Iterations-108: 4.96379725441e-05
+2017-04-27, 16:03:39  Iterations-109: 5.72139107417e-05
+2017-04-27, 16:03:39  Iterations-110: 6.66638444844e-05
+2017-04-27, 16:03:40  Iterations-111: 7.86312717521e-05
+2017-04-27, 16:03:41  Iterations-112: 9.40467710873e-05
+2017-04-27, 16:03:41  Iterations-113: 0.000114285773244
+2017-04-27, 16:03:42  Iterations-114: 0.000141426851449
+2017-04-27, 16:03:42  Iterations-115: 0.000178676405877
+2017-04-27, 16:03:43  Iterations-116: 0.000231050660781
+2017-04-27, 16:03:44  Iterations-117: 0.000306360283468
+2017-04-27, 16:03:44  Iterations-118: 0.000416064618156
+2017-04-27, 16:03:45  Iterations-119: 0.000573060836359
+2017-04-27, 16:03:46  Iterations-120: 0.000773489800329
+2017-04-27, 16:03:46  Iterations-121: 0.000928284138734
+2017-04-27, 16:03:47  Iterations-122: 0.000784826276549
+2017-04-27, 16:03:47  Iterations-123: 0.00030260203073
+2017-04-27, 16:03:48  Iterations-124: 2.75732875301e-05
+2017-04-27, 16:03:49  Iterations-125: 2.69212053002e-07
+Convergence:  125 2.69212053002e-07
+Saving data to file(./result/G_con.pkl).
+Saving data to file(./result/A_con.pkl).
+
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\5.Verify>python ../src/joint_bayesian/verify_lfw_pca.py
+[[   55    58]
+ [  153   155]
+ [  154   155]
+ ...,
+ [13182 13183]
+ [13204 13206]
+ [13205 13211]] (3000L, 2L)
+[[   14  2795]
+ [   14  4624]
+ [   14  9182]
+ ...,
+ [11492 12688]
+ [11528 11568]
+ [11638 11645]] (3000L, 2L)
+Saving data to file(./result/pca_lfw_pca.pkl).
+(13233L, 160L)
+Saving data to file(./result/result_pca.pkl).
+[1 1 1 ..., 0 0 0]
+test size:  (6000L,)
+negative size:  (3000L,)
+postive size:  (3000L,)
+threshold:  -16.9
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.89
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.88
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.87
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.86
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.85
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.84
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.60      0.53      6000
+
+threshold:  -16.83
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.82
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.81
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.8
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.79
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.78
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.77
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.76
+             precision    recall  f1-score   support
+
+      False       0.98      0.21      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.53      6000
+
+threshold:  -16.75
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.74
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.73
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.72
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.35      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.71
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.7
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.69
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.68
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.67
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.66
+             precision    recall  f1-score   support
+
+      False       0.98      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.65
+             precision    recall  f1-score   support
+
+      False       0.99      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.64
+             precision    recall  f1-score   support
+
+      False       0.99      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.63
+             precision    recall  f1-score   support
+
+      False       0.99      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.62
+             precision    recall  f1-score   support
+
+      False       0.99      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000
+
+threshold:  -16.61
+             precision    recall  f1-score   support
+
+      False       0.99      0.22      0.36      3000
+       True       0.56      1.00      0.72      3000
+
+avg / total       0.77      0.61      0.54      6000

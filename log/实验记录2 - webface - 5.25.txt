@@ -1,0 +1,215 @@
+
+[chenweihang@localhost 1.CASIA-WebFace]$ ./deepid.sh
+loading data ...
+train_x:  (14880, 7755)
+train_y:  Shape.0
+valid_x:  (3720, 7755)
+valid_y:  Shape.0
+building the model ...
+/home/chenweihang/DeepID_cwh/src/conv_net/layers.py:152: UserWarning: DEPRECATION: the 'ds' parameter is not going to exist anymore as it is going to be replaced by the parameter 'ws'.
+  ignore_border=True)
+Training the model ...
+        epoch 0, minibatch_index 28/29, error 0.998000
+epoch 0, train_score 0.990621, valid_score 0.993143
+        epoch 1, minibatch_index 28/29, error 0.996000
+epoch 1, train_score 0.988621, valid_score 0.992000
+        epoch 2, minibatch_index 28/29, error 0.996000
+epoch 2, train_score 0.988690, valid_score 0.994571
+        epoch 3, minibatch_index 28/29, error 0.990000
+epoch 3, train_score 0.985517, valid_score 0.991429
+        epoch 4, minibatch_index 28/29, error 0.986000
+epoch 4, train_score 0.975310, valid_score 0.995714
+        epoch 5, minibatch_index 28/29, error 0.954000
+epoch 5, train_score 0.966069, valid_score 0.989143
+        epoch 6, minibatch_index 28/29, error 0.976000
+epoch 6, train_score 0.956000, valid_score 0.988571
+        epoch 7, minibatch_index 28/29, error 0.934000
+epoch 7, train_score 0.937103, valid_score 0.982857
+        epoch 8, minibatch_index 28/29, error 0.896000
+epoch 8, train_score 0.914552, valid_score 0.975429
+        epoch 9, minibatch_index 28/29, error 0.924000
+epoch 9, train_score 0.880828, valid_score 0.975143
+        epoch 10, minibatch_index 28/29, error 0.866000
+epoch 10, train_score 0.851103, valid_score 0.955714
+        epoch 11, minibatch_index 28/29, error 0.900000
+epoch 11, train_score 0.824345, valid_score 0.964571
+        epoch 12, minibatch_index 28/29, error 0.832000
+epoch 12, train_score 0.786207, valid_score 0.947429
+        epoch 13, minibatch_index 28/29, error 0.792000
+epoch 13, train_score 0.764759, valid_score 0.936571
+        epoch 14, minibatch_index 28/29, error 0.702000
+epoch 14, train_score 0.714759, valid_score 0.923429
+        epoch 15, minibatch_index 28/29, error 0.756000
+epoch 15, train_score 0.688621, valid_score 0.920286
+        epoch 16, minibatch_index 28/29, error 0.686000
+epoch 16, train_score 0.635724, valid_score 0.905429
+        epoch 17, minibatch_index 28/29, error 0.662000
+epoch 17, train_score 0.634552, valid_score 0.904286
+        epoch 18, minibatch_index 28/29, error 0.674000
+epoch 18, train_score 0.586138, valid_score 0.898000
+        epoch 19, minibatch_index 28/29, error 0.542000
+epoch 19, train_score 0.552000, valid_score 0.886286
+
+0 0.990620689655 0.993142857143
+1 0.988620689655 0.992
+2 0.988689655172 0.994571428571
+3 0.985517241379 0.991428571429
+4 0.975310344828 0.995714285714
+5 0.966068965517 0.989142857143
+6 0.956 0.988571428571
+7 0.937103448276 0.982857142857
+8 0.914551724138 0.975428571429
+9 0.880827586207 0.975142857143
+10 0.851103448276 0.955714285714
+11 0.824344827586 0.964571428571
+12 0.786206896552 0.947428571429
+13 0.76475862069 0.936571428571
+14 0.71475862069 0.923428571429
+15 0.688620689655 0.920285714286
+16 0.635724137931 0.905428571429
+17 0.634551724138 0.904285714286
+18 0.586137931034 0.898
+19 0.552 0.886285714286
+
+
+
+[chenweihang@localhost 1.CASIA-WebFace]$ ./deepid.sh
+loading data ...
+train_x:  (14880, 7755)
+train_y:  Shape.0
+valid_x:  (3720, 7755)
+valid_y:  Shape.0
+building the model ...
+/home/chenweihang/DeepID_cwh/src/conv_net/layers.py:152: UserWarning: DEPRECATION: the 'ds' parameter is not going to exist anymore as it is going to be replaced by the parameter 'ws'.
+  ignore_border=True)
+Training the model ...
+        epoch 19, minibatch_index 28/29, error 0.698000
+epoch 19, train_score 0.521241, valid_score 0.920000
+        epoch 20, minibatch_index 28/29, error 0.390000
+epoch 20, train_score 0.478069, valid_score 0.848857
+        epoch 21, minibatch_index 28/29, error 0.380000
+epoch 21, train_score 0.457379, valid_score 0.845143
+        epoch 22, minibatch_index 28/29, error 0.446000
+epoch 22, train_score 0.437931, valid_score 0.861429
+        epoch 23, minibatch_index 28/29, error 0.448000
+epoch 23, train_score 0.445172, valid_score 0.858286
+        epoch 24, minibatch_index 28/29, error 0.316000
+epoch 24, train_score 0.385586, valid_score 0.833429
+        epoch 25, minibatch_index 28/29, error 0.268000
+epoch 25, train_score 0.361586, valid_score 0.818857
+        epoch 26, minibatch_index 28/29, error 0.328000
+epoch 26, train_score 0.358207, valid_score 0.841714
+        epoch 27, minibatch_index 28/29, error 0.348000
+epoch 27, train_score 0.313379, valid_score 0.832286
+        epoch 28, minibatch_index 28/29, error 0.320000
+epoch 28, train_score 0.296000, valid_score 0.826571
+        epoch 29, minibatch_index 28/29, error 0.266000
+epoch 29, train_score 0.286828, valid_score 0.815714
+
+19 0.52124137931 0.92
+20 0.478068965517 0.848857142857
+21 0.457379310345 0.845142857143
+22 0.437931034483 0.861428571429
+23 0.445172413793 0.858285714286
+24 0.385586206897 0.833428571429
+25 0.361586206897 0.818857142857
+26 0.358206896552 0.841714285714
+27 0.313379310345 0.832285714286
+28 0.296 0.826571428571
+29 0.286827586207 0.815714285714
+
+
+
+[chenweihang@localhost 1.CASIA-WebFace]$ ./deepid.sh
+loading data ...
+train_x:  (14880, 7755)
+train_y:  Shape.0
+valid_x:  (3720, 7755)
+valid_y:  Shape.0
+building the model ...
+/home/chenweihang/DeepID_cwh/src/conv_net/layers.py:152: UserWarning: DEPRECATION: the 'ds' parameter is not going to exist anymore as it is going to be replaced by the parameter 'ws'.
+  ignore_border=True)
+Training the model ...
+        epoch 29, minibatch_index 28/29, error 0.216000
+epoch 29, train_score 0.239586, valid_score 0.809714
+        epoch 30, minibatch_index 28/29, error 0.136000
+epoch 30, train_score 0.240828, valid_score 0.787429
+        epoch 31, minibatch_index 28/29, error 0.256000
+epoch 31, train_score 0.230897, valid_score 0.809429
+        epoch 32, minibatch_index 28/29, error 0.112000
+epoch 32, train_score 0.217724, valid_score 0.790571
+        epoch 33, minibatch_index 28/29, error 0.244000
+epoch 33, train_score 0.199241, valid_score 0.807714
+        epoch 34, minibatch_index 28/29, error 0.236000
+epoch 34, train_score 0.193862, valid_score 0.810000
+        epoch 35, minibatch_index 28/29, error 0.170000
+epoch 35, train_score 0.154621, valid_score 0.787429
+        epoch 36, minibatch_index 28/29, error 0.098000
+epoch 36, train_score 0.134000, valid_score 0.779143
+        epoch 37, minibatch_index 28/29, error 0.174000
+epoch 37, train_score 0.096000, valid_score 0.805714
+        epoch 38, minibatch_index 28/29, error 0.198000
+epoch 38, train_score 0.123241, valid_score 0.812286
+        epoch 39, minibatch_index 28/29, error 0.088000
+epoch 39, train_score 0.092345, valid_score 0.786286
+
+29 0.239586206897 0.809714285714
+30 0.240827586207 0.787428571429
+31 0.230896551724 0.809428571429
+32 0.217724137931 0.790571428571
+33 0.19924137931 0.807714285714
+34 0.193862068966 0.81
+35 0.154620689655 0.787428571429
+36 0.134 0.779142857143
+37 0.096 0.805714285714
+38 0.12324137931 0.812285714286
+39 0.0923448275862 0.786285714286
+
+
+[chenweihang@localhost 1.CASIA-WebFace]$ ./deepid.sh
+loading data ...
+train_x:  (14880, 7755)
+train_y:  Shape.0
+valid_x:  (3720, 7755)
+valid_y:  Shape.0
+building the model ...
+/home/chenweihang/DeepID_cwh/src/conv_net/layers.py:152: UserWarning: DEPRECATION: the 'ds' parameter is not going to exist anymore as it is going to be replaced by the parameter 'ws'.
+  ignore_border=True)
+Training the model ...
+        epoch 39, minibatch_index 28/29, error 0.030000
+epoch 39, train_score 0.069103, valid_score 0.771429
+        epoch 40, minibatch_index 28/29, error 0.044000
+epoch 40, train_score 0.115517, valid_score 0.773429
+        epoch 41, minibatch_index 28/29, error 0.018000
+epoch 41, train_score 0.024621, valid_score 0.766000
+        epoch 42, minibatch_index 28/29, error 0.004000
+epoch 42, train_score 0.016483, valid_score 0.751143
+        epoch 43, minibatch_index 28/29, error 0.004000
+epoch 43, train_score 0.005724, valid_score 0.744000
+        epoch 44, minibatch_index 28/29, error 0.022000
+epoch 44, train_score 0.010828, valid_score 0.764286
+        epoch 45, minibatch_index 28/29, error 0.008000
+epoch 45, train_score 0.006345, valid_score 0.744857
+        epoch 46, minibatch_index 28/29, error 0.002000
+epoch 46, train_score 0.001310, valid_score 0.740286
+        epoch 47, minibatch_index 28/29, error 0.004000
+epoch 47, train_score 0.000897, valid_score 0.742286
+        epoch 48, minibatch_index 28/29, error 0.004000
+epoch 48, train_score 0.000759, valid_score 0.736000
+        epoch 49, minibatch_index 28/29, error 0.004000
+epoch 49, train_score 0.000690, valid_score 0.736286
+
+39 0.0691034482759 0.771428571429
+40 0.115517241379 0.773428571429
+41 0.0246206896552 0.766
+42 0.0164827586207 0.751142857143
+43 0.00572413793103 0.744
+44 0.0108275862069 0.764285714286
+45 0.00634482758621 0.744857142857
+46 0.00131034482759 0.740285714286
+47 0.000896551724138 0.742285714286
+48 0.000758620689655 0.736
+49 0.000689655172414 0.736285714286
+
+
+

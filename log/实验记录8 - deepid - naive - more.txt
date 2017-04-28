@@ -1,0 +1,178 @@
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\4.LFW-deepfunneled>python ../src/verify/verify.py verify-pca.param pca_verify_result 0.2
+Usage: python ../src/verify/verify.py exp_param result_file
+
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\4.LFW-deepfunneled>python ../src/verify/verify.py verify-pca.param pca_verify_result
+right_x:   (6000L, 7755L)
+right_y:   (6000L,)
+left_x:  (6000L, 7755L)
+left_y:  (6000L,)
+
+2 experiments
+
+*************************************************
+exp_1 -- verify based on pca dimension reduction to 160 with Euclidean
+pcaing data ...
+                                                                                                                                                                                                                                                                                                                                       Traceback (most recent call last):
+  File "../src/verify/verify.py", line 109, in <module>
+    str_pre_process, str_sim_metric, params, threshold)
+  File "../src/verify/verify.py", line 58, in verify
+    print 'threshold: ' + threshold
+TypeError: cannot concatenate 'str' and 'float' objects
+
+E:\资料\研一下学期课程\大规模多媒体信息管理与检索\DeepID_cwh\4.LFW-deepfunneled>python ../src/verify/verify.py verify-pca.param pca_verify_result
+right_x:   (6000L, 7755L)
+right_y:   (6000L,)
+left_x:  (6000L, 7755L)
+left_y:  (6000L,)
+
+2 experiments
+
+*************************************************
+exp_1 -- verify based on pca dimension reduction to 160 with Euclidean
+pcaing data ...
+threshold: 0.1
+done: 6000
+precision: 0.499833 = 2999 / 6000
+pcaing data ...
+threshold: 0.15
+done: 6000
+precision: 0.498000 = 2988 / 6000
+pcaing data ...
+threshold: 0.2
+done: 6000
+precision: 0.499000 = 2994 / 6000
+pcaing data ...
+threshold: 0.25
+done: 6000
+precision: 0.509167 = 3055 / 6000
+pcaing data ...
+threshold: 0.3
+done: 6000
+precision: 0.512167 = 3073 / 6000
+pcaing data ...
+threshold: 0.35
+done: 6000
+precision: 0.504833 = 3029 / 6000
+pcaing data ...
+threshold: 0.4
+done: 6000
+precision: 0.500833 = 3005 / 6000
+pcaing data ...
+threshold: 0.45
+done: 6000
+precision: 0.500500 = 3003 / 6000
+pcaing data ...
+threshold: 0.5
+done: 6000
+precision: 0.501833 = 3011 / 6000
+pcaing data ...
+threshold: 0.55
+done: 6000
+precision: 0.500667 = 3004 / 6000
+pcaing data ...
+threshold: 0.6
+done: 6000
+precision: 0.500667 = 3004 / 6000
+pcaing data ...
+threshold: 0.65
+done: 6000
+precision: 0.500500 = 3003 / 6000
+pcaing data ...
+threshold: 0.7
+done: 6000
+precision: 0.500500 = 3003 / 6000
+pcaing data ...
+threshold: 0.75
+done: 6000
+precision: 0.500500 = 3003 / 6000
+pcaing data ...
+threshold: 0.8
+done: 6000
+precision: 0.500167 = 3001 / 6000
+pcaing data ...
+threshold: 0.85
+done: 6000
+precision: 0.500333 = 3002 / 6000
+
+*************************************************
+exp_2 -- verify based on pca dimension reduction to 160 with cosine
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.1
+done: 6000
+precision: 0.500000 = 3000 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.15
+done: 6000
+precision: 0.500000 = 3000 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.2
+done: 6000
+precision: 0.500000 = 3000 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.25
+done: 6000
+precision: 0.500000 = 3000 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.3
+done: 6000
+precision: 0.499833 = 2999 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.35
+done: 6000
+precision: 0.499833 = 2999 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.4
+done: 6000
+precision: 0.499833 = 2999 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.45
+done: 6000
+precision: 0.499333 = 2996 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.5
+done: 6000
+precision: 0.499000 = 2994 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.55
+done: 6000
+precision: 0.499833 = 2999 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.6
+done: 6000
+precision: 0.504833 = 3029 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.65
+done: 6000
+precision: 0.503000 = 3018 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.7
+done: 6000
+precision: 0.506333 = 3038 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.75
+done: 6000
+precision: 0.507500 = 3045 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.8
+done: 6000
+precision: 0.504833 = 3029 / 6000
+pcaing data ...
+sqrt normalizing data ...
+threshold: 0.85
+done: 6000
+precision: 0.500500 = 3003 / 6000
