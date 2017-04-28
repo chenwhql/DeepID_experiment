@@ -61,22 +61,22 @@ the homework project
             - exp_param: 配置文件
                 - 样例配置文件如下：
                 
-                test_data_folder: left_vec
-                train_data_folder: right_vec
-                this should be in the same folder with left_vec and right_vec
-                and the program should be executed in the same folder with this file
+                test_data_folder: left_vec  
+                train_data_folder: right_vec  
+                this should be in the same folder with left_vec and right_vec  
+                and the program should be executed in the same folder with this file  
 
-                [exp_1]
-                description: verify based on pca dimension reduction to 160 with Euclidean
-                pre_process_method: pca
-                sim_metric_method: euc
-                components: 160
+                [exp_1]  
+                description: verify based on pca dimension reduction to 160 with Euclidean  
+                pre_process_method: pca  
+                sim_metric_method: euc  
+                components: 160  
 
-                [exp_2]
-                description: verify based on pca dimension reduction to 160 with cosine
-                pre_process_method: pca
-                sim_metric_method: cos
-                components: 160
+                [exp_2]  
+                description: verify based on pca dimension reduction to 160 with cosine  
+                pre_process_method: pca  
+                sim_metric_method: cos   
+                components: 160  
                 
                 前5行定义基本信息
                 - line 1：查询集向量文件夹
