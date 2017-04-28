@@ -63,8 +63,8 @@ the homework project
                 
                 test_data_folder: left_vec
                 train_data_folder: right_vec
-                # this should be in the same folder with left_vec and right_vec
-                # and the program should be executed in the same folder with this file
+                this should be in the same folder with left_vec and right_vec
+                and the program should be executed in the same folder with this file
 
                 [exp_1]
                 description: verify based on pca dimension reduction to 160 with Euclidean
